@@ -1,0 +1,541 @@
+Color;Card Name
+White;Adeline, Resplendent Cathar
+White;Ajani, Nacatl Pariah
+White;Balance
+White;Cathar Commando
+White;Cloud, Midgar Mercenary
+White;Containment Priest
+White;Council's Judgment
+White;Damn
+White;Descendant of Storms
+White;Eagles of the North
+White;Elite Spellbinder
+White;Elspeth, Knight-Errant
+White;Elspeth, Storm Slayer
+White;Enduring Innocence
+White;Flickerwisp
+White;Get Lost
+White;Giver of Runes
+White;Glimmer Lens
+White;Guide of Souls
+White;Hildibrand Manderville
+White;Jacked Rabbit
+White;Karakas
+White;Leyline Binding
+White;Lion Sash
+White;Loran of the Third Path
+White;Luminarch Aspirant
+White;Mana Tithe
+White;Monastery Mentor
+White;Mother of Runes
+White;Mox Pearl
+White;Novice Inspector
+White;Ocelot Pride
+White;Oust
+White;Overlord of the Mistmoors
+White;Palace Jailer
+White;Parallax Wave
+White;Path to Exile
+White;Phelia, Exuberant Shepherd
+White;Portable Hole
+White;Prismatic Ending
+White;Reprieve
+White;Scholar of New Horizons
+White;Securitron Squadron
+White;Serra Paragon
+White;Skyclave Apparition
+White;Solitude
+White;Staff of the Storyteller
+White;Static Prison
+White;Stoneforge Mystic
+White;Summon: Good King Mog XII
+White;Summon: Knights of Round
+White;Summon: Yojimbo
+White;Sunfall
+White;Swords to Plowshares
+White;Thalia, Guardian of Thraben
+White;The Wandering Emperor
+White;Thraben Inspector
+White;Touch the Spirit Realm
+White;Unexpectedly Absent
+White;Voice of Victory
+White;Winds of Abandon
+White;Witch Enchanter
+White;Wrath of God
+Blue;Abhorrent Oculus
+Blue;Aether Spellbomb
+Blue;Ancestral Recall
+Blue;Astrologian's Planisphere
+Blue;Brain Freeze
+Blue;Brainstorm
+Blue;Brainsurge
+Blue;Brazen Borrower
+Blue;Chrome Host Seedshark
+Blue;Consider
+Blue;Counterspell
+Blue;Cryptic Command
+Blue;Daze
+Blue;Displacer Kitten
+Blue;Duelist of the Mind
+Blue;Echo of Eons
+Blue;Enduring Curiosity
+Blue;Faerie Mastermind
+Blue;Flash
+Blue;Force of Negation
+Blue;Force of Will
+Blue;Forensic Gadgeteer
+Blue;Frantic Search
+Blue;Gitaxian Probe
+Blue;Gush
+Blue;Hard Evidence
+Blue;Hullbreacher
+Blue;Jace, the Mind Sculptor
+Blue;Jace, Vryn's Prodigy
+Blue;Jace, Wielder of Mysteries
+Blue;Kappa Cannoneer
+Blue;Ledger Shredder
+Blue;Lórien Revealed
+Blue;Lose Focus
+Blue;Malcolm, Alluring Scoundrel
+Blue;Mana Drain
+Blue;Mana Leak
+Blue;Memory Lapse
+Blue;Miscalculation
+Blue;Mox Sapphire
+Blue;Mystical Tutor
+Blue;Narset, Parter of Veils
+Blue;Occult Epiphany
+Blue;Otawara, Soaring City
+Blue;Paradoxical Outcome
+Blue;Phantasmal Image
+Blue;Plagon, Lord of the Beach
+Blue;Ponder
+Blue;Preordain
+Blue;Proft's Eidetic Memory
+Blue;Remand
+Blue;Shelldock Isle
+Blue;Show and Tell
+Blue;Sink into Stupor
+Blue;Sleep Magic
+Blue;Snapcaster Mage
+Blue;Spell Pierce
+Blue;Spellseeker
+Blue;Stern Scolding
+Blue;Stock Up
+Blue;Subtlety
+Blue;Tamiyo, Inquisitive Student
+Blue;Thassa's Oracle
+Blue;Thieving Skydiver
+Blue;Thought Scour
+Blue;Time Spiral
+Blue;Time Walk
+Blue;Time Warp
+Blue;Timetwister
+Blue;Tinker
+Blue;Tishana's Tidebinder
+Blue;Tolarian Academy
+Blue;Treasure Cruise
+Blue;Trinket Mage
+Blue;True-Name Nemesis
+Blue;Upheaval
+Blue;Urza, Lord High Artificer
+Black;Animate Dead
+Black;Archon of Cruelty
+Black;Baleful Mastery
+Black;Barrowgoyf
+Black;Bitter Triumph
+Black;Bolas's Citadel
+Black;Bone Shards
+Black;Cabal Ritual
+Black;Caustic Bronco
+Black;Cecil, Dark Knight
+Black;Chain of Smog
+Black;Collective Brutality
+Black;Concealing Curtains
+Black;Corpse Dance
+Black;Crabomination
+Black;Cut Down
+Black;Dark Confidant
+Black;Dark Ritual
+Black;Dauthi Voidwalker
+Black;Deep-Cavern Bat
+Black;Demonic Tutor
+Black;Doomsday
+Black;Duress
+Black;Emperor of Bones
+Black;Entomb
+Black;Exhume
+Black;Fatal Push
+Black;Grave Titan
+Black;Grief
+Black;Griselbrand
+Black;Harvester of Misery
+Black;Hymn to Tourach
+Black;Imperial Seal
+Black;Infernal Grasp
+Black;Inquisition of Kozilek
+Black;Kitesail Freebooter
+Black;Lethal Scheme
+Black;Life/Death
+Black;Liliana of the Veil
+Black;Metamorphosis Fanatic
+Black;Mind Twist
+Black;Mox Jet
+Black;Necromancy
+Black;Nethergoyf
+Black;Night's Whisper
+Black;Orcish Bowmasters
+Black;Overlord of the Balemurk
+Black;Preacher of the Schism
+Black;Reanimate
+Black;Recurring Nightmare
+Black;Sedgemoor Witch
+Black;Sephiroth, Fabled SOLDIER
+Black;Shallow Grave
+Black;Sheoldred, the Apocalypse
+Black;Sheoldred's Edict
+Black;Snuff Out
+Black;Sorin of House Markov
+Black;Tendrils of Agony
+Black;Thoughtseize
+Black;Toxic Deluge
+Black;Troll of Khazad-dûm
+Black;Unearth
+Black;Urborg, Tomb of Yawgmoth
+Black;Vampire Hexmage
+Black;Vampiric Tutor
+Black;Wishclaw Talisman
+Black;Yawgmoth's Will
+Red;Abrade
+Red;Amped Raptor
+Red;Arena of Glory
+Red;Bonecrusher Giant
+Red;Broadside Bombardiers
+Red;Burst Lightning
+Red;Chain Lightning
+Red;Chainsaw
+Red;Chandra, Torch of Defiance
+Red;Cori-Steel Cutter
+Red;Death-Greeter's Champion
+Red;Delayed Blast Fireball
+Red;Detective's Phoenix
+Red;Dragon's Rage Channeler
+Red;Etali, Primal Conqueror
+Red;Fable of the Mirror-Breaker
+Red;Faithless Looting
+Red;Fear of Missing Out
+Red;Fiery Confluence
+Red;Fireblast
+Red;Firebolt
+Red;Flame Slash
+Red;Fury
+Red;Galvanic Blast
+Red;Galvanic Discharge
+Red;Gau, Feral Youth
+Red;Generous Plunderer
+Red;Goblin Bombardment
+Red;Goblin Rabblemaster
+Red;Goldspan Dragon
+Red;Greasewrench Goblin
+Red;Gut, True Soul Zealot
+Red;Headliner Scarlett
+Red;Inti, Seneschal of the Sun
+Red;Ivora, Insatiable Heir
+Red;Kari Zev, Skyship Raider
+Red;Kellan, Planar Trailblazer
+Red;Laelia, the Blade Reforged
+Red;Legion Extruder
+Red;Lightning Bolt
+Red;Magda, Brazen Outlaw
+Red;Mine Collapse
+Red;Mox Ruby
+Red;Oliphaunt
+Red;Pyrogoyf
+Red;Pyrokinesis
+Red;Ragavan, Nimble Pilferer
+Red;Robber of the Rich
+Red;Scrapwork Mutt
+Red;Screaming Nemesis
+Red;Seasoned Pyromancer
+Red;Seething Song
+Red;Sneak Attack
+Red;Summon: Brynhildr
+Red;Summon: Esper Valigarmanda
+Red;Summon: Kujata
+Red;Suplex
+Red;Tarfire
+Red;Tersa Lightshatter
+Red;Through the Breach
+Red;Underworld Breach
+Red;Unholy Heat
+Red;Voldaren Epicure
+Red;Wheel of Fortune
+Red;Yuffie, Materia Hunter
+Green;Avacyn's Pilgrim
+Green;Birds of Paradise
+Green;Boseiju, Who Endures
+Green;Bristly Bill, Spine Sower
+Green;Cankerbloom
+Green;Channel
+Green;Courser of Kruphix
+Green;Craterhoof Behemoth
+Green;Crop Rotation
+Green;Delighted Halfling
+Green;Elvish Mystic
+Green;Elvish Reclaimer
+Green;Endurance
+Green;Esika's Chariot
+Green;Eternal Witness
+Green;Eureka
+Green;Exploration
+Green;Fanatic of Rhonas
+Green;Fastbond
+Green;Force of Vigor
+Green;Fyndhorn Elves
+Green;Gaea's Cradle
+Green;Generous Ent
+Green;Green Sun's Zenith
+Green;Haywire Mite
+Green;Hexdrinker
+Green;Ignoble Hierarch
+Green;Keen-Eyed Curator
+Green;Llanowar Elves
+Green;Malevolent Rumble
+Green;Mox Emerald
+Green;Natural Order
+Green;Nature's Lore
+Green;Nissa, Ascended Animist
+Green;Nissa, Who Shakes the World
+Green;Noble Hierarch
+Green;Oath of Druids
+Green;Once Upon a Time
+Green;Pest Infestation
+Green;Primeval Titan
+Green;Questing Beast
+Green;Ramunap Excavator
+Green;Rofellos, Llanowar Emissary
+Green;Sandstorm Salvager
+Green;Scythecat Cub
+Green;Sentinel of the Nameless City
+Green;Shifting Woodland
+Green;Six
+Green;Sowing Mycospawn
+Green;Springheart Nantuko
+Green;Sylvan Caryatid
+Green;Sylvan Safekeeper
+Green;Tarmogoyf
+Green;Tireless Tracker
+Green;Titania, Protector of Argoth
+Green;Ulvenwald Oddity
+Green;Ursine Monstrosity
+Green;Vaultborn Tyrant
+Green;Walk-In Closet/Forgotten Cellar
+Green;Woodfall Primus
+Green;Worldly Tutor
+Green;Worldspine Wurm
+Green;Yavimaya, Cradle of Growth
+Green;Yuna's Decision
+Azorius;Celestial Colonnade
+Azorius;Flooded Strand
+Azorius;Fractured Identity
+Azorius;Hallowed Fountain
+Azorius;Meticulous Archive
+Azorius;No More Lies
+Azorius;Seachrome Coast
+Azorius;Shorikai, Genesis Engine
+Azorius;Talisman of Progress
+Azorius;Teferi, Hero of Dominaria
+Azorius;Teferi, Time Raveler
+Azorius;Tundra
+Boros;Arid Mesa
+Boros;Figure of Destiny
+Boros;Forth Eorlingas!
+Boros;Inspiring Vantage
+Boros;Otharri, Suns' Glory
+Boros;Phlage, Titan of Fire's Fury
+Boros;Plateau
+Boros;Sacred Foundry
+Boros;Sunbaked Canyon
+Boros;Sunbillow Verge
+Boros;Talisman of Conviction
+Boros;Zirda, the Dawnwaker
+Dimir;Baleful Strix
+Dimir;Creeping Tar Pit
+Dimir;Darkslick Shores
+Dimir;Ertai Resurrected
+Dimir;Fallen Shinobi
+Dimir;Kaito, Bane of Nightmares
+Dimir;Polluted Delta
+Dimir;Psychic Frog
+Dimir;Sunken Ruins
+Dimir;Talisman of Dominance
+Dimir;Undercity Sewers
+Dimir;Underground Sea
+Dimir;Watery Grave
+Golgari;Bayou
+Golgari;Blooming Marsh
+Golgari;Deathrite Shaman
+Golgari;Grist, the Hunger Tide
+Golgari;Overgrown Tomb
+Golgari;Pillage the Bog
+Golgari;Tear Asunder
+Golgari;Underground Mortuary
+Golgari;Verdant Catacombs
+Golgari;Wastewood Verge
+Golgari;Wight of the Reliquary
+Golgari;Witherbloom Apprentice
+Gruul;Bloodbraid Challenger
+Gruul;Commercial District
+Gruul;Copperline Gorge
+Gruul;Manamorphose
+Gruul;Minsc & Boo, Timeless Heroes
+Gruul;Orcish Lumberjack
+Gruul;Stomping Ground
+Gruul;Taiga
+Gruul;Territorial Kavu
+Gruul;Thornspire Verge
+Gruul;Wooded Foothills
+Gruul;Wrenn and Six
+Izzet;Dack Fayden
+Izzet;Expressive Iteration
+Izzet;Lutri, the Spellchaser
+Izzet;Riverpyre Verge
+Izzet;Saheeli, Sublime Artificer
+Izzet;Scalding Tarn
+Izzet;Spirebluff Canal
+Izzet;Steam Vents
+Izzet;Talisman of Creativity
+Izzet;Third Path Iconoclast
+Izzet;Thundering Falls
+Izzet;Vivi Ornitier
+Izzet;Volcanic Island
+Orzhov;Bleachbone Verge
+Orzhov;Concealed Courtyard
+Orzhov;Godless Shrine
+Orzhov;Lingering Souls
+Orzhov;Lurrus of the Dream-Den
+Orzhov;Marsh Flats
+Orzhov;Scrubland
+Orzhov;Shadowy Backstreet
+Orzhov;Tidehollow Sculler
+Orzhov;Vindicate
+Rakdos;Badlands
+Rakdos;Blackcleave Cliffs
+Rakdos;Blazemire Verge
+Rakdos;Blood Crypt
+Rakdos;Bloodstained Mire
+Rakdos;Bloodtithe Harvester
+Rakdos;Carnage Interpreter
+Rakdos;Fire Covenant
+Rakdos;Kolaghan's Command
+Rakdos;Raucous Theater
+Selesnya;Arwen, Mortal Queen
+Selesnya;Horizon Canopy
+Selesnya;Knight of the Reliquary
+Selesnya;Lush Portico
+Selesnya;Razorverge Thicket
+Selesnya;Savannah
+Selesnya;Shelinda, Yevon Acolyte
+Selesnya;Temple Garden
+Selesnya;Torsten, Founder of Benalia
+Selesnya;Windswept Heath
+Simic;Botanical Sanctum
+Simic;Breeding Pool
+Simic;Hedge Maze
+Simic;Misty Rainforest
+Simic;Nadu, Winged Wisdom
+Simic;Oko, Thief of Crowns
+Simic;Talisman of Curiosity
+Simic;Tamiyo, Collector of Tales
+Simic;Tropical Island
+Simic;Uro, Titan of Nature's Wrath
+Simic;Waterlogged Grove
+Multicolor;Atraxa, Grand Unifier
+Multicolor;Fabled Passage
+Multicolor;Indatha Triome
+Multicolor;Jetmir's Garden
+Multicolor;Ketria Triome
+Multicolor;Leovold, Emissary of Trest
+Multicolor;Loot, the Pathfinder
+Multicolor;Omnath, Locus of Creation
+Multicolor;Prismatic Vista
+Multicolor;Raffine, Scheming Seer
+Multicolor;Raffine's Tower
+Multicolor;Raugrin Triome
+Multicolor;Relic of Sauron
+Multicolor;Satya, Aetherflux Genius
+Multicolor;Savai Triome
+Multicolor;Sin, Spira's Punishment
+Multicolor;Spara's Headquarters
+Multicolor;Starting Town
+Multicolor;Talon Gates of Madara
+Multicolor;Thopter Foundry
+Multicolor;Xander's Lounge
+Multicolor;Zagoth Triome
+Multicolor;Ziatora's Proving Ground
+Colorless;Agatha's Soul Cauldron
+Colorless;Ancient Tomb
+Colorless;Basalt Monolith
+Colorless;Black Lotus
+Colorless;Blightsteel Colossus
+Colorless;Candelabra of Tawnos
+Colorless;Chromatic Star
+Colorless;Chrome Mox
+Colorless;City of Traitors
+Colorless;Coalition Relic
+Colorless;Coveted Jewel
+Colorless;Currency Converter
+Colorless;Dark Depths
+Colorless;Dismember
+Colorless;Emrakul, the Aeons Torn
+Colorless;Everflowing Chalice
+Colorless;Expedition Map
+Colorless;Field of the Dead
+Colorless;Ghost Vacuum
+Colorless;Grim Monolith
+Colorless;Kaldra Compleat
+Colorless;Karn, Scion of Urza
+Colorless;Lavaspur Boots
+Colorless;Library of Alexandria
+Colorless;Lightning Greaves
+Colorless;Lion's Eye Diamond
+Colorless;Lotus Petal
+Colorless;Mana Crypt
+Colorless;Mana Vault
+Colorless;Manifold Key
+Colorless;Memory Jar
+Colorless;Mind Stone
+Colorless;Mishra's Bauble
+Colorless;Mishra's Workshop
+Colorless;Mox Diamond
+Colorless;Mox Opal
+Colorless;Myr Battlesphere
+Colorless;Nettlecyst
+Colorless;Nexus of Becoming
+Colorless;Palantír of Orthanc
+Colorless;Pentad Prism
+Colorless;Phyrexian Metamorph
+Colorless;Portal to Phyrexia
+Colorless;Retrofitter Foundry
+Colorless;Sensei's Divining Top
+Colorless;Shadowspear
+Colorless;Skullclamp
+Colorless;Smuggler's Copter
+Colorless;Sol Ring
+Colorless;Soul-Guide Lantern
+Colorless;Strip Mine
+Colorless;Summon: Bahamut
+Colorless;Sword of the Meek
+Colorless;Tangle Wire
+Colorless;The Mightstone and Weakstone
+Colorless;The One Ring
+Colorless;Thespian's Stage
+Colorless;Triplicate Titan
+Colorless;Ugin, Eye of the Storms
+Colorless;Ulamog, the Infinite Gyre
+Colorless;Umezawa's Jitte
+Colorless;Urza's Bauble
+Colorless;Urza's Saga
+Colorless;Walking Ballista
+Colorless;Wasteland
+Colorless;Zuran Orb
