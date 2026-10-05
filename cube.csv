@@ -1,9 +1,9 @@
-Cube Color ID;Card
+Color;Card
 White;Aang's Iceberg
 White;Abandoned Air Temple
 White;Adeline, Resplendent Cathar
 White;Ajani, Nacatl Pariah
-White;Appa, Steadfast Guardian
+White;Auriok Salvagers
 White;Balance
 White;Cathar Commando
 White;Containment Priest
@@ -12,9 +12,8 @@ White;Damn
 White;Eagles of the North
 White;Elite Spellbinder
 White;Elspeth, Storm Slayer
-White;Emeritus of Truce
 White;Enduring Innocence
-White;Ephemerate
+White;Enlightened Tutor
 White;Erode
 White;Flickerwisp
 White;Get Lost
@@ -23,6 +22,7 @@ White;Glimmer Lens
 White;Guardian Scalelord
 White;Guide of Souls
 White;Jacked Rabbit
+White;Jennifer Walters
 White;Karakas
 White;Leyline Binding
 White;Lion Sash
@@ -31,6 +31,7 @@ White;Luminarch Aspirant
 White;Mana Tithe
 White;Mother of Runes
 White;Mox Pearl
+White;Night Nurse, Healer of Heroes
 White;Ocelot Pride
 White;Oust
 White;Overlord of the Mistmoors
@@ -42,16 +43,14 @@ White;Portable Hole
 White;Prismatic Ending
 White;Reprieve
 White;Sage of the Skies
-White;Samwise the Stouthearted
 White;Sanguine Evangelist
-White;Securitron Squadron
 White;Serra Paragon
-White;Sevinne's Reclamation
 White;Skyclave Apparition
 White;Solitude
 White;Staff of the Storyteller
 White;Stoneforge Mystic
 White;Sunfall
+White;Swift Reconfiguration
 White;Swords to Plowshares
 White;The Wandering Emperor
 White;Thraben Inspector
@@ -59,17 +58,16 @@ White;Unexpectedly Absent
 White;Voice of Victory
 White;Winds of Abandon
 White;Witch Enchanter
-White;Wrath of God
 Blue;Abhorrent Oculus
 Blue;Aether Spellbomb
 Blue;Ancestral Recall
 Blue;Astrologian's Planisphere
-Blue;Azure Beastbinder
+Blue;Bilbo, Thief in the Night
+Blue;Boomerang Basics
 Blue;Brain Freeze
 Blue;Brainstorm
 Blue;Brazen Borrower
 Blue;Consider
-Blue;Consult the Star Charts
 Blue;Counterspell
 Blue;Daze
 Blue;Displacer Kitten
@@ -88,7 +86,6 @@ Blue;Hullbreacher
 Blue;Jace, the Mind Sculptor
 Blue;Jace, Vryn's Prodigy
 Blue;Jace, Wielder of Mysteries
-Blue;Jadzi, Steward of Fate
 Blue;Kappa Cannoneer
 Blue;Ledger Shredder
 Blue;Lórien Revealed
@@ -104,31 +101,34 @@ Blue;Mystical Tutor
 Blue;Narset, Parter of Veils
 Blue;Occult Epiphany
 Blue;Otawara, Soaring City
+Blue;Paradoxical Outcome
 Blue;Phantasmal Image
 Blue;Ponder
 Blue;Preordain
 Blue;Proft's Eidetic Memory
 Blue;Quantum Riddler
 Blue;Remand
+Blue;Seasoned Cryomancer
+Blue;Sewer-veillance Cam
 Blue;Shelldock Isle
 Blue;Show and Tell
 Blue;Sink into Stupor
-Blue;Skycoach Conductor
 Blue;Snapcaster Mage
 Blue;Spell Pierce
 Blue;Spellseeker
+Blue;Sphinx of False Conclusions
 Blue;Stern Scolding
 Blue;Stock Up
 Blue;Stormchaser's Talent
 Blue;Subtlety
 Blue;Tamiyo, Inquisitive Student
 Blue;Thassa's Oracle
+Blue;The Wondrous Wasp
 Blue;Thieving Skydiver
 Blue;Thought Scour
 Blue;Thundertrap Trainer
 Blue;Time Spiral
 Blue;Time Walk
-Blue;Time Warp
 Blue;Timetwister
 Blue;Tinker
 Blue;Tishana's Tidebinder
@@ -138,15 +138,14 @@ Blue;Upheaval
 Blue;Urza, Lord High Artificer
 Blue;Wan Shi Tong, All-Knowing
 Blue;Wan Shi Tong, Librarian
-Blue;Winternight Stories
 Black;Animate Dead
 Black;Archon of Cruelty
 Black;Barrowgoyf
 Black;Bitter Triumph
+Black;Black Widow, Super Spy
 Black;Bloodchief's Thirst
 Black;Bolas's Citadel
 Black;Bone Shards
-Black;Booster Tutor
 Black;Cabal Ritual
 Black;Caustic Bronco
 Black;Chain of Smog
@@ -188,6 +187,7 @@ Black;Orcish Bowmasters
 Black;Overlord of the Balemurk
 Black;Reanimate
 Black;Recurring Nightmare
+Black;Sanctum Lurker
 Black;Sedgemoor Witch
 Black;Shallow Grave
 Black;Sheoldred, the Apocalypse
@@ -198,27 +198,27 @@ Black;Tendrils of Agony
 Black;Thoughtseize
 Black;Toxic Deluge
 Black;Troll of Khazad-dûm
-Black;Twilight Diviner
 Black;Unearth
 Black;Urborg, Tomb of Yawgmoth
 Black;Vampiric Tutor
+Black;Vraska's Final Mercy
 Black;Wishclaw Talisman
 Black;Yawgmoth's Will
 Red;Abrade
-Red;Anger
-Red;Anje's Ravager
 Red;Arena of Glory
-Red;Blazing Rootwalla
+Red;Batroc the Leaper
 Red;Bonecrusher Giant
 Red;Broadside Bombardiers
 Red;Burst Lightning
 Red;Chain Lightning
 Red;Chandra, Torch of Defiance
 Red;Cori-Steel Cutter
+Red;Dead // Gone
 Red;Death-Greeter's Champion
 Red;Delayed Blast Fireball
 Red;Detective's Phoenix
 Red;Dragon's Rage Channeler
+Red;Embereth Shieldbreaker
 Red;Etali, Primal Conqueror
 Red;Fable of the Mirror-Breaker
 Red;Faithless Looting
@@ -227,64 +227,69 @@ Red;Fiery Confluence
 Red;Fireblast
 Red;Firebolt
 Red;Flame Slash
+Red;Flashback
 Red;Fury
 Red;Galvanic Discharge
+Red;Gandalf, Goblins' Bane
 Red;Gau, Feral Youth
 Red;Generous Plunderer
-Red;Glorybringer
 Red;Goblin Bombardment
+Red;Goblin Engineer
+Red;Goblin Welder
 Red;Gut, True Soul Zealot
 Red;Headliner Scarlett
-Red;Hexing Squelcher
 Red;Impractical Joke
 Red;Inti, Seneschal of the Sun
 Red;Ivora, Insatiable Heir
 Red;Laelia, the Blade Reforged
+Red;Lava Dart
 Red;Legion Extruder
 Red;Lightning Bolt
-Red;Magda, Brazen Outlaw
-Red;Marauding Mako
 Red;Mine Collapse
+Red;Monastery Swiftspear
 Red;Mox Ruby
 Red;Oliphaunt
+Red;Phyrexian Dragon Engine
+Red;Pompous Battlemage
+Red;Pyrite Spellbomb
 Red;Pyrogoyf
 Red;Pyrokinesis
 Red;Ragavan, Nimble Pilferer
-Red;Robber of the Rich
+Red;Samut, Hazoret's Champion
 Red;Screaming Nemesis
 Red;Sear
 Red;Seasoned Pyromancer
+Red;Slickshot Show-Off
 Red;Sneak Attack
-Red;Squee, Goblin Nabob
+Red;Soul-Scar Mage
+Red;Stingcaster Mage
 Red;Suplex
 Red;Tarfire
-Red;Tersa Lightshatter
-Red;The Legend of Roku
 Red;Through the Breach
 Red;Underworld Breach
 Red;Unholy Heat
 Red;Voldaren Epicure
 Red;Wheel of Fortune
-Green;Ancient Cornucopia
-Green;Avacyn's Pilgrim
 Green;Badgermole Cub
 Green;Baloth Prime
-Green;Basking Rootwalla
 Green;Birds of Paradise
 Green;Boseiju, Who Endures
 Green;Bristly Bill, Spine Sower
-Green;Channel
+Green;Carnivorous Cultivator
+Green;Crop Rotation
 Green;Delighted Halfling
+Green;Devoted Druid
 Green;Elvish Mystic
+Green;Elvish Reclaimer
 Green;Emeritus of Abundance
 Green;Endurance
 Green;Esika's Chariot
-Green;Eternal Witness
 Green;Fanatic of Rhonas
 Green;Fastbond
 Green;Force of Vigor
 Green;Formidable Speaker
 Green;Gaea's Cradle
+Green;Garruk, Curse Breaker
 Green;Generous Ent
 Green;Green Sun's Zenith
 Green;Haywire Mite
@@ -294,9 +299,9 @@ Green;Ignoble Hierarch
 Green;Keen-Eyed Curator
 Green;Llanowar Elves
 Green;Malevolent Rumble
-Green;Michelangelo, Weirdness to 11
+Green;Marwyn, the Preserver
+Green;Mole Man, Moloid Master
 Green;Mox Emerald
-Green;Mutagen Man, Living Ooze
 Green;Natural Order
 Green;Nissa, Who Shakes the World
 Green;Noble Hierarch
@@ -305,24 +310,19 @@ Green;Once Upon a Time
 Green;Ouroboroid
 Green;Pest Infestation
 Green;Questing Beast
-Green;Sandstorm Salvager
-Green;Satyr Wayfinder
+Green;Quirion Ranger
 Green;Scythecat Cub
 Green;Sentinel of the Nameless City
 Green;Shifting Woodland
 Green;Six
+Green;Sowing Mycospawn
 Green;Springheart Nantuko
-Green;Survival of the Fittest
-Green;Sylvan Caryatid
 Green;Sylvan Safekeeper
+Green;Tamiyo's Safekeeping
 Green;Tireless Tracker
 Green;Titania, Protector of Argoth
-Green;Town Greeter
 Green;Ursine Monstrosity
-Green;Vastlands Scavenger
 Green;Vaultborn Tyrant
-Green;Vengevine
-Green;Walk-In Closet // Forgotten Cellar
 Green;Woodfall Primus
 Green;Worldspine Wurm
 Green;Yavimaya, Cradle of Growth
@@ -331,11 +331,11 @@ Azorius;Celestial Colonnade
 Azorius;Flooded Strand
 Azorius;Fractured Identity
 Azorius;Hallowed Fountain
-Azorius;Makdee and Itla, Skysnarers
 Azorius;Meticulous Archive
 Azorius;No More Lies
 Azorius;Seachrome Coast
 Azorius;Shorikai, Genesis Engine
+Azorius;Spider-Woman, Stunning Savior
 Azorius;Talisman of Progress
 Azorius;Teferi, Hero of Dominaria
 Azorius;Teferi, Time Raveler
@@ -344,27 +344,21 @@ Boros;Arid Mesa
 Boros;Elegant Parlor
 Boros;Figure of Destiny
 Boros;Forth Eorlingas!
-Boros;General Ferrous Rokiric
 Boros;Inspiring Vantage
-Boros;Kirol, Attentive First-Year
-Boros;Lorehold Charm
 Boros;Otharri, Suns' Glory
 Boros;Phlage, Titan of Fire's Fury
 Boros;Plateau
 Boros;Sacred Foundry
 Boros;Sunbaked Canyon
-Boros;Talisman of Conviction
 Boros;Zirda, the Dawnwaker
 Dimir;Baleful Strix
 Dimir;Creeping Tar Pit
 Dimir;Darkslick Shores
-Dimir;Deceit
 Dimir;Fallen Shinobi
 Dimir;Kaito, Bane of Nightmares
-Dimir;Kavaero, Mind-Bitten
-Dimir;Master of Death
 Dimir;Polluted Delta
 Dimir;Psychic Frog
+Dimir;Superior Spider-Man
 Dimir;Talisman of Dominance
 Dimir;Undercity Sewers
 Dimir;Underground Sea
@@ -374,7 +368,6 @@ Golgari;Bayou
 Golgari;Blooming Marsh
 Golgari;Deathrite Shaman
 Golgari;Grist, the Hunger Tide
-Golgari;Hogaak, Arisen Necropolis
 Golgari;Overgrown Tomb
 Golgari;Pillage the Bog
 Golgari;Tear Asunder
@@ -382,17 +375,17 @@ Golgari;Underground Mortuary
 Golgari;Verdant Catacombs
 Golgari;Vicious Rivalry
 Golgari;Wastewood Verge
+Golgari;Wight of the Reliquary
 Golgari;Witherbloom Apprentice
-Golgari;Witherbloom Charm
 Gruul;Bloodbraid Challenger
 Gruul;Commercial District
 Gruul;Copperline Gorge
+Gruul;Escape to the Wilds
 Gruul;Manamorphose
 Gruul;Minsc & Boo, Timeless Heroes
 Gruul;Orcish Lumberjack
 Gruul;Stomping Ground
 Gruul;Taiga
-Gruul;Territorial Kavu
 Gruul;Thornspire Verge
 Gruul;Vibrance
 Gruul;Wooded Foothills
@@ -401,7 +394,6 @@ Izzet;Dack Fayden
 Izzet;Expressive Iteration
 Izzet;Flame of Anor
 Izzet;Lutri, the Spellchaser
-Izzet;Prismari Charm
 Izzet;Riverpyre Verge
 Izzet;Saheeli, Sublime Artificer
 Izzet;Scalding Tarn
@@ -414,6 +406,7 @@ Izzet;Traumatic Critique
 Izzet;Vivi Ornitier
 Izzet;Volcanic Island
 Orzhov;Bleachbone Verge
+Orzhov;Cloak and Dagger, Entwined
 Orzhov;Concealed Courtyard
 Orzhov;Godless Shrine
 Orzhov;Lingering Souls
@@ -421,9 +414,7 @@ Orzhov;Lurrus of the Dream-Den
 Orzhov;Marsh Flats
 Orzhov;Scrubland
 Orzhov;Shadowy Backstreet
-Orzhov;Silverquill Charm
 Orzhov;Tidehollow Sculler
-Orzhov;Vindicate
 Rakdos;Badlands
 Rakdos;Blackcleave Cliffs
 Rakdos;Blazemire Verge
@@ -431,53 +422,50 @@ Rakdos;Blood Crypt
 Rakdos;Bloodstained Mire
 Rakdos;Bloodtithe Harvester
 Rakdos;Carnage Interpreter
-Rakdos;Desecrex, Gift of Servitude
 Rakdos;Fire Covenant
 Rakdos;Kolaghan's Command
 Rakdos;Raucous Theater
-Selesnya;Arwen, Mortal Queen
 Selesnya;Brightglass Gearhulk
 Selesnya;Figure of Fable
 Selesnya;Horizon Canopy
+Selesnya;Knight of the Reliquary
 Selesnya;Lush Portico
+Selesnya;Okoye, Mighty and Adored
 Selesnya;Razorverge Thicket
 Selesnya;Savannah
 Selesnya;Temple Garden
 Selesnya;Torsten, Founder of Benalia
 Selesnya;Windswept Heath
+Simic;Absorbing Man
+Simic;Avatar of Burgeoning Echoes
 Simic;Botanical Sanctum
 Simic;Breeding Pool
 Simic;Hedge Maze
 Simic;Misty Rainforest
 Simic;Nadu, Winged Wisdom
 Simic;Oko, Thief of Crowns
-Simic;Quandrix Charm
 Simic;Talisman of Curiosity
 Simic;Tamiyo, Collector of Tales
 Simic;Tropical Island
 Simic;Uro, Titan of Nature's Wrath
 Simic;Waterlogged Grove
 Simic;Wistfulness
-Multicolor;Aang, at the Crossroads
 Multicolor;Atraxa, Grand Unifier
 Multicolor;Fabled Passage
 Multicolor;Indatha Triome
 Multicolor;Jetmir's Garden
 Multicolor;Ketria Triome
-Multicolor;Leovold, Emissary of Trest
-Multicolor;Loot, the Pathfinder
 Multicolor;Mana Confluence
 Multicolor;Multiversal Passage
-Multicolor;Niv-Mizzet Reborn
 Multicolor;Omnath, Locus of Creation
 Multicolor;Prismatic Vista
 Multicolor;Raffine's Tower
 Multicolor;Raugrin Triome
 Multicolor;Relic of Sauron
-Multicolor;Satya, Aetherflux Genius
 Multicolor;Savai Triome
 Multicolor;Spara's Headquarters
 Multicolor;Starting Town
+Multicolor;Talon Gates of Madara
 Multicolor;Thopter Foundry
 Multicolor;Xander's Lounge
 Multicolor;Zagoth Triome
@@ -485,7 +473,6 @@ Multicolor;Ziatora's Proving Ground
 Colorless;Agatha's Soul Cauldron
 Colorless;Ancient Tomb
 Colorless;Basalt Monolith
-Colorless;Bazaar of Baghdad
 Colorless;Black Lotus
 Colorless;Blightsteel Colossus
 Colorless;Candelabra of Tawnos
@@ -494,15 +481,20 @@ Colorless;Chrome Mox
 Colorless;City of Traitors
 Colorless;Coalition Relic
 Colorless;Coveted Jewel
+Colorless;Cryogen Relic
 Colorless;Currency Converter
+Colorless;Dark Depths
 Colorless;Dismember
 Colorless;Emrakul, the Aeons Torn
+Colorless;Engineered Explosives
 Colorless;Everflowing Chalice
 Colorless;Expedition Map
+Colorless;Ginger, Queen of Sweets
 Colorless;Grim Monolith
+Colorless;Grindstone
+Colorless;Iron Man Armor
 Colorless;Kaldra Compleat
 Colorless;Karn, Scion of Urza
-Colorless;Lavaspur Boots
 Colorless;Library of Alexandria
 Colorless;Lightning Greaves
 Colorless;Lion's Eye Diamond
@@ -516,14 +508,18 @@ Colorless;Mishra's Bauble
 Colorless;Mishra's Workshop
 Colorless;Mox Diamond
 Colorless;Mox Opal
+Colorless;Mutagenic Growth
 Colorless;Myr Battlesphere
+Colorless;Mystic Forge
 Colorless;Nettlecyst
+Colorless;Painter's Servant
 Colorless;Palantír of Orthanc
 Colorless;Pentad Prism
 Colorless;Phyrexian Metamorph
 Colorless;Portal to Phyrexia
 Colorless;Retrofitter Foundry
 Colorless;Sensei's Divining Top
+Colorless;Skateboard
 Colorless;Skullclamp
 Colorless;Smuggler's Copter
 Colorless;Sol Ring
@@ -531,8 +527,11 @@ Colorless;Soul-Guide Lantern
 Colorless;Strip Mine
 Colorless;Sword of the Meek
 Colorless;Tezzeret, Cruel Captain
+Colorless;The Echoverse Fulcrum
+Colorless;The Fantasticar
 Colorless;The Mightstone and Weakstone
 Colorless;The One Ring
+Colorless;Thespian's Stage
 Colorless;Ugin, Eye of the Storms
 Colorless;Umezawa's Jitte
 Colorless;Urza's Bauble
