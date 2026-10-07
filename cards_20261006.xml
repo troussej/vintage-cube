@@ -1,8 +1,8 @@
 <order>
     <details>
-        <quantity>64</quantity>
+        <quantity>62</quantity>
         <bracket>72</bracket>
-        <stock>(S33) Superior Smooth</stock>
+        <stock>(S30) Standard Smooth</stock>
         <foil>false</foil>
     </details>
     <fronts>
@@ -163,9 +163,9 @@
             <query>pyrite spellbomb</query>
         </card>
         <card>
-            <id>1jkQQI5FQSd5lm9pSB09qvBx81u2jGNj2</id>
+            <id>1muTYHf_9PvFZZY7HC743GBy4-glbnaYs</id>
             <slots>26</slots>
-            <name>Samut, Hazoret’s Champion.png</name>
+            <name>Samut, Hazoret's Champion (Modern, Alt) [FRA] {251}.jpg</name>
             <query>samut hazorets champion</query>
         </card>
         <card>
@@ -247,140 +247,128 @@
             <query>tamiyos safekeeping</query>
         </card>
         <card>
-            <id>12WOV1OXGYuXxF1XWeJA9uih6eyaHCfzq</id>
-            <slots>40</slots>
-            <name>Spider-Woman, Stunning Savior.png</name>
-            <query>spider woman stunning savior</query>
-        </card>
-        <card>
-            <id>1XybVW6CdufzVqtnlDk7DH83j6Ha9Sp0m</id>
-            <slots>41</slots>
-            <name>Superior Spider-Man {155}.jpg</name>
-            <query>superior spider man</query>
-        </card>
-        <card>
             <id>1hm503SmugEHYn9TaGIeyNh2uG9OGhDDN</id>
-            <slots>42</slots>
+            <slots>40</slots>
             <name>Wight of the Reliquary.jpg</name>
             <query>wight of reliquary</query>
         </card>
         <card>
             <id>1gPFnQrub-hYCNGOHHpwLJCHuD4hqcCkn</id>
-            <slots>43</slots>
+            <slots>41</slots>
             <name>Escape to the Wilds (OTC 223).jpg</name>
             <query>escape to wilds</query>
         </card>
         <card>
             <id>1JVE4dSR5RFmY3y4VHEcmexl1DNtDARiD</id>
-            <slots>44</slots>
+            <slots>42</slots>
             <name>Cloak and Dagger, Entwined.jpg</name>
             <query>cloak and dagger entwined</query>
         </card>
         <card>
             <id>19c_N291bJxz3f59MIS3T8zXxe8nth9y6</id>
-            <slots>45</slots>
+            <slots>43</slots>
             <name>Knight of the Reliquary (IMA 203).jpg</name>
             <query>knight of reliquary</query>
         </card>
         <card>
             <id>1RyhpyHrVer2fRGM-FEFBYbAF4JsSt-47</id>
-            <slots>46</slots>
+            <slots>44</slots>
             <name>Okoye, Mighty and Adored (MSC 89).jpg</name>
             <query>okoye mighty and adored</query>
         </card>
         <card>
             <id>1gkCBZJakytJaDLdrLNtYH1Si1chP2zmP</id>
-            <slots>47</slots>
+            <slots>45</slots>
             <name>Absorbing Man.jpg</name>
             <query>absorbing man</query>
         </card>
         <card>
             <id>1PRNGZAmfHJe_xYXEozOHFVs-qYUnZaU5</id>
-            <slots>49</slots>
+            <slots>46</slots>
             <name>Talon Gates of Madara.png</name>
             <query>talon gates of madara</query>
         </card>
         <card>
             <id>1s07_idS6KPIuIZE2OQJGcvxOtOPhd9dL</id>
-            <slots>50</slots>
+            <slots>47</slots>
             <name>Cryogen Relic.jpg</name>
             <query>cryogen relic</query>
         </card>
         <card>
             <id>1kKJV2bIK5zYMamVA_h31FmFr2Adbtjg8</id>
-            <slots>51</slots>
+            <slots>48</slots>
             <name>Dark Depths (UMA 241).jpg</name>
             <query>dark depths</query>
         </card>
         <card>
             <id>1PwG2MZDKFqEqARUKeopp1hcmPO0HOeoD</id>
-            <slots>52</slots>
+            <slots>49</slots>
             <name>Engineered Explosives (MMA 204).jpg</name>
             <query>engineered explosives</query>
         </card>
         <card>
             <id>1V4CrBSRmonMuP5-s32yh13Ic-TBuO_Cy</id>
-            <slots>53</slots>
+            <slots>50</slots>
             <name>Ginger, Queen of Sweets (Arif Wijaya) [FRC] {14}.png</name>
             <query>ginger queen of sweets</query>
         </card>
         <card>
             <id>15LoW5xbidbHuZi-4nao77X1bmEbUeDjc</id>
-            <slots>54</slots>
+            <slots>51</slots>
             <name>Grindstone (TMP 290).jpg</name>
             <query>grindstone</query>
         </card>
         <card>
             <id>1Y0uCba409TaVrM7-ABlsAbg42uThGdBa</id>
-            <slots>55</slots>
+            <slots>52</slots>
             <name>Iron Man Armor.jpg</name>
             <query>iron man armor</query>
         </card>
         <card>
             <id>1F7r_g8wfEMmaDurB6S1xg06A5oox0lH6</id>
-            <slots>56</slots>
+            <slots>53</slots>
             <name>Mutagenic Growth (MM2 149).jpg</name>
             <query>mutagenic growth</query>
         </card>
         <card>
             <id>1wZHu7i1VxD51e7AKFxbNE_dPRNHy9Kwg</id>
-            <slots>57</slots>
+            <slots>54</slots>
             <name>Mystic Forge.png</name>
             <query>mystic forge</query>
         </card>
         <card>
             <id>1B-6XI27TnfXNbydOVzZ0UUotYuyTc1s9</id>
-            <slots>58</slots>
+            <slots>55</slots>
             <name>Painter's Servant (SHM 257).jpg</name>
             <query>painters servant</query>
         </card>
         <card>
             <id>1PvYX716qPy37417s_J71ykKbNrnnTQcO</id>
-            <slots>59</slots>
+            <slots>56</slots>
             <name>Skateboard.jpg</name>
             <query>skateboard</query>
         </card>
         <card>
             <id>18bnyPB2LMqBgtnnj9ZXG8GPhlf2saIOv</id>
-            <slots>60</slots>
+            <slots>57</slots>
             <name>The Echoverse Fulcrum (Adam Paquette) [FRA] {169}.jpeg</name>
             <query>echoverse fulcrum</query>
         </card>
         <card>
             <id>18NkE-dIbC3pMoNVeavquGR4_Jd-ZdAJC</id>
-            <slots>61</slots>
+            <slots>58</slots>
             <name>The Fantasticar (MSC 104).jpg</name>
             <query>fantasticar</query>
         </card>
         <card>
             <id>1yYFfOfkWxxBSjs0V8qt8YeLBpo_Jq_fl</id>
-            <slots>62</slots>
+            <slots>59</slots>
             <name>Thespian's Stage (GTC 248).jpg</name>
             <query>thespians stage</query>
         </card>
         <card>
             <id>1GjHgpPBUDW0sdUQ_BX0nvQyz6lPM2fs7</id>
-            <slots>63</slots>
+            <slots>60</slots>
             <name>Dead _ Gone.png</name>
             <query>dead gone</query>
         </card>
