@@ -85,15 +85,15 @@
             <query>black widow super spy</query>
         </card>
         <card>
-            <id>1TO9DLBS8RDETxXJwc4lnNJ7QnNdCg0k-</id>
+            <id>1QEf4i8UOGjHM88nVJWzxPSPaAdoQCYK5</id>
             <slots>13</slots>
-            <name>Sanctum Lurker (a).png</name>
+            <name>Sanctum Lurker.jpg</name>
             <query>sanctum lurker</query>
         </card>
         <card>
-            <id>1P7aSBVEdNAMaTKx54nbkeP1C8i40JdlH</id>
+            <id>1DPjqvzwiKdTsyz0iRgIfG79cQa_dmcNh</id>
             <slots>14</slots>
-            <name>Vraska's Final Mercy (Darius Zablockis) [FRA] {343}.jpeg</name>
+            <name>Vraska's Final Mercy (Magali Villeneuve) [FRA] {71}.jpeg</name>
             <query>vraskas final mercy</query>
         </card>
         <card>
@@ -163,9 +163,9 @@
             <query>pyrite spellbomb</query>
         </card>
         <card>
-            <id>1muTYHf_9PvFZZY7HC743GBy4-glbnaYs</id>
+            <id>1bc-yhoZa2O67Dn0WrL06W3wa2htEVYVY</id>
             <slots>26</slots>
-            <name>Samut, Hazoret's Champion (Modern, Alt) [FRA] {251}.jpg</name>
+            <name>Samut, Hazoret's Champion (Echoed Pairs).jpg</name>
             <query>samut hazorets champion</query>
         </card>
         <card>
@@ -217,9 +217,9 @@
             <query>garruk curse breaker</query>
         </card>
         <card>
-            <id>1eHpD6evbf79D9N389ZVe3xIwYk-wdlpi</id>
+            <id>1cQ1YBrTiTRETZEwy_f6e_HmXmFN4cdth</id>
             <slots>35</slots>
-            <name>Marwyn, the Preserver (Quintin Gleim) [FRA] {263}.png</name>
+            <name>Marwyn, the Preserver (Echoed Pairs).jpg</name>
             <query>marwyn preserver</query>
         </card>
         <card>
@@ -371,6 +371,12 @@
             <slots>60</slots>
             <name>Dead _ Gone.png</name>
             <query>dead gone</query>
+        </card>
+        <card>
+            <id>1X-03T-4OMZQ0CjDh0CpnHChIuWrhXOg-</id>
+            <slots>61</slots>
+            <name>Avatar of Burgeoning Echoes.jpg</name>
+            <query>avatar of burgeoning echoes</query>
         </card>
     </fronts>
     <backs>
