@@ -1,4 +1,3 @@
--- a/cube.csv
 Cube Color ID;Card
 White;Appa, Steadfast Guardian
 White;Emeritus of Truce
@@ -13,7 +12,6 @@ Blue;Jadzi, Steward of Fate
 Blue;Skycoach Conductor
 Blue;Time Warp
 Blue;Winternight Stories
-Black;Booster Tutor
 Black;Twilight Diviner
 Red;Anger
 Red;Anje's Ravager
@@ -41,13 +39,11 @@ Green;Town Greeter
 Green;Vastlands Scavenger
 Green;Vengevine
 Green;Walk-In Closet // Forgotten Cellar
-Azorius;Makdee and Itla, Skysnarers
 Boros;General Ferrous Rokiric
 Boros;Kirol, Attentive First-Year
 Boros;Lorehold Charm
 Boros;Talisman of Conviction
 Dimir;Deceit
-Dimir;Kavaero, Mind-Bitten
 Dimir;Master of Death
 Golgari;Hogaak, Arisen Necropolis
 Golgari;Witherbloom Charm
@@ -55,7 +51,6 @@ Gruul;Territorial Kavu
 Izzet;Prismari Charm
 Orzhov;Silverquill Charm
 Orzhov;Vindicate
-Rakdos;Desecrex, Gift of Servitude
 Selesnya;Arwen, Mortal Queen
 Simic;Quandrix Charm
 Multicolor;Aang, at the Crossroads
